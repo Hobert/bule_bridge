@@ -1,0 +1,13 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "usart_bsp.h": "c",
+        "bsp_system.h": "c",
+        "akebi.h": "c",
+        "led_bsp.h": "c",
+        "main.h": "c",
+        "adc_bsp.h": "c",
+        "string.h": "c",
+        "komichi.h": "c"
+    }
+}
